@@ -1,4 +1,4 @@
-opsworks-cookbooks
+datafuse-cookbooks
 ==================
 
 These are the standard Chef cookbooks used by AWS OpsWorks.
