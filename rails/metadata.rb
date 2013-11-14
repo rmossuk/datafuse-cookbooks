@@ -4,6 +4,7 @@ version "0.1"
 supports "ubuntu", ">= 8.10"
 
 recipe "rails::configure", "Re-configure a Rails application"
+recipe "rails::assets", "Setup assets"
 
 depends "apache2"
 depends "deploy"
